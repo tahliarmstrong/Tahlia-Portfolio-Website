@@ -81,6 +81,12 @@ iv{
     margin-top:80px;
     margin-left:70px
 }
+
+.designsubheading1 a {
+    color: #ec8f8f;
+    text-decoration: none;
+}
+
 .designsubheading1 a:hover{
     color: #555555;
 }
