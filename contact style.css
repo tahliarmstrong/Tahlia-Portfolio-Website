@@ -75,6 +75,14 @@ iv{
     margin-top: 60px;
     margin-bottom: 60px;
 }
+.contacttext a {
+    color: #555555;
+    text-decoration: none;
+}
+
+.contacttext a:hover{
+    color: #ec8f8f;
+}
 .image1{
     max-height:48px;
     float:left;
