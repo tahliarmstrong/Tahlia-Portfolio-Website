@@ -50,6 +50,30 @@ iv{
 .link a:hover{
     color:#ec8f8f;
 }
+.designheader a {
+    color: white;
+    text-decoration: none;
+}
+
+.designheader a:hover{
+    color: #555555;
+}
+.photographyheader a {
+    color: white;
+    text-decoration: none;
+}
+
+.photographyheader a:hover{
+    color: #ec8f8f;
+}
+.paintingheader a {
+    color: #555555;
+    text-decoration: none;
+}
+
+.paintingheader a:hover{
+    color: #ec8f8f;
+}
 .about{
     height:530px;
     max-width:1020px;
